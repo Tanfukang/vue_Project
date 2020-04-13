@@ -6,7 +6,7 @@
           <el-col :span="12">
             <div class="grid-content bg-purple">
               <img :src="imgUrl" alt="logo" />
-              <span class="title">学生管理系统</span>
+              <span class="title">会员管理系统</span>
             </div>
           </el-col>
           <el-col :span="12">

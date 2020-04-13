@@ -3,7 +3,7 @@
     <el-container>
       <el-header class="header">
         <img :src="imgUrl" alt="logo" />
-        <span class="title">学生管理系统</span>
+        <span class="title">会员管理系统</span>
       </el-header>
       <el-main class="mian">
         <div class="login-container">
